@@ -18,6 +18,11 @@ intercategory - 一種特殊的範疇結構，用於描述不同範疇之間的�
 
 Puppe exact category - 由Dieter Puppe引入的一種特殊範疇，用於研究正合序列和同調代數，在代數拓撲和代數幾何中有重要應用。
 
+Cell - 在雙範疇（double category）中，cell 是連接水平箭頭和垂直箭頭的二維結構，通常畫成一個填滿的方格。它描述了兩組箭頭之間的自然變換或關係，是雙範疇的基本組件之一。
+
+Span - 在範疇論中，span 是一種由三個對象和兩個箭頭組成的結構，通常表示為 $X \leftarrow S \rightarrow Y$。span 可以用來描述對象之間的「橋樑」或「中介」，在雙範疇、極限、關係等多種數學結構中有廣泛應用。例如，在集合範疇中，span 可以用來表示集合之間的關係或映射的中介集合。
+
+Cell representer
 ---
 
 ## Tabulator（表格化子）的深入解釋
