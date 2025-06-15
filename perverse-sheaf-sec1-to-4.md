@@ -1,4 +1,4 @@
-# 繪圖版怪異層(Perverse Sheaf)的指南
+# 圖示版怪異層(Perverse Sheaf)的指南
 
 **Geordie Williamson 著**
 
@@ -53,10 +53,12 @@
 **練習 3.1**：在上述設定下，假設 $X, Y$ 是射影的。$X$ 和 $Y$ 的歐拉示性數與上述數據有何關係？
 
 **曲面之間的雙有理映射：** 典型例子是曲面上一點的 blow-up。如下圖所示：
-
+![](blow-up.png)
 （圖：blow-up 後的 $E$ 和 $\mathbb{R}^2$）
 
 其他重要例子包括（有理）曲面奇點的分解：
+
+![](blow-up2.png)
 
 - $\{xy = z^2\} \subset \mathbb{C}^3$ 的極小分解
 - $\{x^2 + y^3 = z^5\} \subset \mathbb{C}^3$ 的極小分解
@@ -82,6 +84,8 @@ $$
 則 $f$ 是 $U_{reg}$ 上的光滑射影橢圓曲線族。
 
 假設 $(a, b, c) \in U_{reg}$，且（便於想像）$a, b$ 很近，$c$ 很遠。則 $E_{a,b,c}$ 可視為 $\mathbb{P}^1$ 上分歧於 $a, b, c, \infty$ 的二重覆蓋。
+
+![](ramification.png)
 
 記 $\ell_1, \ell_2$ 為連接 $a$ 與 $b$、$b$ 與 $c$ 的線段，$c_1, c_2$ 為其在 $E_{a,b,c}$ 上的逆像。由 $f$ 是二重覆蓋可知，$E_{a,b,c}$ 中有兩個 $S^1$。
 
